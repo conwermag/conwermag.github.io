@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://conwermag.github.io/sitemap.html.gz
+Sitemap: https://conwermag.github.io/app/sitemap.html.gz
+Sitemap: https://conwermag.github.io/assets/sitemap.html.gz
+Sitemap: https://conwermag.github.io/css/sitemap.html.gz
+Sitemap: https://conwermag.github.io/includes/sitemap.html.gz
+Sitemap: https://conwermag.github.io/item/sitemap.html.gz
+Sitemap: https://conwermag.github.io/src/sitemap.html.gz
